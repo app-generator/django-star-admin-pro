@@ -229,15 +229,15 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-![Django Dashboard StarAdmin PRO - Main Screen.](https://raw.githubusercontent.com/app-generator/static/master/django-dashboard-staradmin-pro/django-dashboard-staradmin-pro-screen-1.png)
+![Django Dashboard StarAdmin PRO - Main Screen.](https://raw.githubusercontent.com/app-generator/django-dashboard-staradmin-pro/master/media/django-dashboard-staradmin-pro-screen.png)
 
 <br />
 
-![Django Dashboard StarAdmin PRO - Charts Screen.](https://raw.githubusercontent.com/app-generator/static/master/django-dashboard-staradmin-pro/django-dashboard-staradmin-pro-screen-3.png)
+![Django Dashboard StarAdmin PRO - Widgets Screen.](https://raw.githubusercontent.com/app-generator/django-dashboard-staradmin-pro/master/media/django-dashboard-staradmin-pro-screen-1.png)
 
 <br />
 
-![Django Dashboard StarAdmin PRO - Widgets Screen.](https://raw.githubusercontent.com/app-generator/static/master/django-dashboard-staradmin-pro/django-dashboard-staradmin-pro-screen-4.png)
+![Django Dashboard StarAdmin PRO - Image Gallery.](https://raw.githubusercontent.com/app-generator/django-dashboard-staradmin-pro/master/media/django-dashboard-staradmin-pro-screen-4.png)
 
 <br />
 
