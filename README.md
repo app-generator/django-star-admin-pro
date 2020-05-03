@@ -23,7 +23,7 @@
 
 <br />
 
-![Django Dashboard StarAdmin PRO - Admin Panel coded in Django.](./media/django-dashboard-staradmin-pro/django-dashboard-staradmin-pro-intro.gif)
+![Django Dashboard StarAdmin PRO - Admin Panel coded in Django.](https://raw.githubusercontent.com/app-generator/django-dashboard-staradmin-pro/master/media/django-dashboard-staradmin-pro-intro.gif)
 
 <br />
 
