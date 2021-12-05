@@ -19,7 +19,7 @@
 > Links
 
 - [Django Star Admin PRO](https://appseed.us/admin-dashboards/django-dashboard-staradmin-pro) - product page
-- [Django Star Admin PRO Demo](https://django-star-admin-pro.appseed-srv1.com/) - LIVE App
+- [Django Star Admin PRO](https://django-star-admin-pro.appseed-srv1.com/) - LIVE Demo
 
 <br />
 
